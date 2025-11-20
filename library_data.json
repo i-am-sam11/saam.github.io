@@ -1,0 +1,54 @@
+{
+    "next_book_id": 129,
+    "books": [
+        {
+            "book_id": 122,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960,
+            "is_issued": false
+        },
+        {
+            "book_id": 123,
+            "title": "1984",
+            "author": "George Orwell",
+            "year": 1948,
+            "is_issued": false
+        },
+        {
+            "book_id": 124,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "year": 1813,
+            "is_issued": false
+        },
+        {
+            "book_id": 125,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "year": 1951,
+            "is_issued": false
+        },
+        {
+            "book_id": 127,
+            "title": "The Fault in our stars",
+            "author": "John Green]",
+            "year": 2012,
+            "is_issued": false
+        },
+        {
+            "book_id": 128,
+            "title": "Jane Eyre",
+            "author": "Charlotte Bront\u00c3\u00ab]",
+            "year": 1847,
+            "is_issued": false
+        },
+        {
+            "book_id": 128,
+            "title": "Hungar games",
+            "author": "suzane",
+            "year": 2007,
+            "is_issued": false
+        }
+    ]
+}
